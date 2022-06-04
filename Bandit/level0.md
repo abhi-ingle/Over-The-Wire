@@ -1,0 +1,15 @@
+### Level 0
+
+Here the host is bandit.labs.overthewire.org on port 2220. The username and password both are bandit0.
+
+Connecting to the host using ssh.
+
+ssh <username>@<remote host address> -p <port number>
+
+Solution:
+run the following commmand:
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+then enter the password: bandit0
+
+![level0](https://user-images.githubusercontent.com/88927842/171993624-9f1baffb-49e6-4081-b6c2-d5074a9f9b09.png)
