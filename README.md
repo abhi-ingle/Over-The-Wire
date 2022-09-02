@@ -1,7 +1,7 @@
 # Over-The-Wire
 
 <hr/>
-<p>In this repository, I have uploaded writeup for OverTheWire challenges.</p>
+<p><b>In this repository, I have uploaded writeup for OverTheWire challenges.</b></p>
 <br/>
 
 ![otw-logo](https://user-images.githubusercontent.com/88927842/184025111-f7611e8a-abe6-4c02-8d50-c63ee7978cbc.png)
